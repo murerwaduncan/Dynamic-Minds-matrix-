@@ -1,5 +1,184 @@
-<a href="https://github.com/murerwaduncan/Dynamic-Minds-Matrix" target="_blank">
-  <img src="https://raw.githubusercontent.com/murerwaduncan/Dynamic-Minds-Matrix/main/file_00000000d47061fdba97fe580ff17a53.png" 
-       alt="DMM Re-Mind Poster" 
-       style="width:100%; max-width:600px; border-radius:12px;">
-</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta property="og:title" content="Dynamic Minds Matrix" />
+  <meta property="og:description" content="Own Your Power. Master Your Path." />
+  <meta property="og:image" content="https://murerwaduncan.github.io/dmm-link/IMG-20250711-WA0057.jpg" />
+  <meta property="og:url" content="https://murerwaduncan.github.io/dmm-link/" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <title>Dynamic Minds Matrix</title>
+  <link rel="icon" href="https://murerwaduncan.github.io/dmm-link/IMG-20250711-WA0057.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" />
+  <style>
+    :root {
+      --dark-bg: #0e1a1d;
+      --card-bg: #1a2c30;
+      --teal: #00bfa6;
+      --indigo: #7f5af0;
+      --cyan: #03dac6;
+      --text-light: #ffffff;
+      --text-muted: #b0bec5;
+      --accent: #fcd34d;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--dark-bg);
+      color: var(--text-light);
+      line-height: 1.6;
+    }
+
+    .top-section {
+      background-color: var(--card-bg);
+      padding: 3rem 1rem 2rem;
+      text-align: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+    }
+
+    .brand-name {
+      font-size: 2.8rem;
+      font-weight: 700;
+      color: var(--text-light);
+      margin-bottom: 0.5rem;
+    }
+
+    .tagline {
+      font-size: 1.4rem;
+      color: var(--text-light);
+      font-style: italic;
+    }
+
+    .join-btn {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.7rem 1.4rem;
+      background-color: var(--teal);
+      color: var(--dark-bg);
+      font-weight: bold;
+      border: none;
+      border-radius: 30px;
+      font-size: 1rem;
+      text-decoration: none;
+      transition: background 0.3s ease;
+    }
+
+    .join-btn:hover {
+      background-color: var(--cyan);
+    }
+
+    .main {
+      padding: 2rem 1rem;
+      max-width: 900px;
+      margin: auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      justify-content: center;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+      padding: 1.2rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      min-width: 280px;
+      max-width: 360px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+    }
+
+    .card i {
+      font-size: 1.6rem;
+      color: var(--cyan);
+      width: 32px;
+      text-align: center;
+    }
+
+    .card strong {
+      color: var(--text-light);
+      display: block;
+      font-size: 1.1rem;
+    }
+
+    .card span, .card a {
+      font-size: 1.05rem;
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    .card a:hover {
+      color: var(--cyan);
+    }
+
+    footer {
+      background: #111;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin-top: 2rem;
+    }
+
+    @media (max-width: 600px) {
+      .brand-name {
+        font-size: 2rem;
+      }
+      .tagline {
+        font-size: 1.1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="top-section">
+    <div class="brand-name">DYNAMIC MINDS MATRIX</div>
+    <div class="tagline">Own Your Power. Master Your Path.</div>
+    <a class="join-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSc46PBytjHezthyiAC9jmQssvmCNHr4cX47DjRoMndTo1yGDw/viewform?usp=sharing" target="_blank">Take the First Step</a>
+  </div>
+
+  <div class="main">
+    <div class="card">
+      <i class="fas fa-phone"></i>
+      <div>
+        <strong>Call Us:</strong>
+        <span>+254759947456</span>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fab fa-whatsapp"></i>
+      <div>
+        <strong>WhatsApp:</strong>
+        <span>+254759947456</span>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fab fa-youtube"></i>
+      <div>
+        <strong>YouTube:</strong>
+        <span>DMM Inspiration</span>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fas fa-globe"></i>
+      <div>
+        <strong>Website:</strong>
+        <a href="https://www.dynamicmindsmatrix.com" target="_blank">www.dynamicmindsmatrix.com</a>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Dynamic Minds Matrix. All rights reserved.
+  </footer>
+</body>
+      </html>
